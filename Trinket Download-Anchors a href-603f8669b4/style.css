@@ -1,0 +1,9 @@
+h1 {color:red;}
+a {color:green;} 
+nava a, ul, li{
+display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-around ;
+align-items: center ;
+align-content: center ;}
